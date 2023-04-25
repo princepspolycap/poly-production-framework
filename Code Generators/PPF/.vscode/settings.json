@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./poly_production_framework/src"
+    ]
+}

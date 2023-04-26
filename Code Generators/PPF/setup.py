@@ -4,7 +4,7 @@ import concurrent.futures
 from code_generation import generate_and_populate
 
 # Define the OpenAI API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY
 
 # Define the root directory of the project
 ROOT_DIR = 'C:\\Users\\eagle\\OneDrive\\Documents\\Dev\\Code Generators\\PPF'
